@@ -1,0 +1,15 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "I am demonstrating npm",
+  "main": "botPost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillermo",
+  "license": "ISC",
+  "dependencies": {
+    "rita": "^1.1.40",
+    "twit": "^2.2.5"
+  }
+}
